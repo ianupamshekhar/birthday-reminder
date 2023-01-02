@@ -1,2 +1,3 @@
 # birthday-reminder
-A Birthday Reminder app which scraps and fetches birthdays of Friends from Facebook.
+A Birthday Reminder app which reminds the birthdays of all your Friends from Facebook.
+
